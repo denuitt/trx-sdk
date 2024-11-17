@@ -130,7 +130,7 @@ router.post("/v1/transaction/send", async (req: any, res: any) => {
 });
 
 router.listen(3000, async () => {
-    console.log("Server listening on localhost:3000");
+    console.log("Server listening on localhost:8000");
 });
 
 
