@@ -1,0 +1,19 @@
+{
+  "name": "walletlib",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "node-fetch": "^3.3.2",
+    "tron-wallet-hd": "^2.0.2",
+    "tronweb": "^6.0.0"
+  }
+}
