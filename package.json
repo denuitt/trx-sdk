@@ -1,5 +1,5 @@
 {
-  "name": "walletlib",
+  "name": "trx_sdk",
   "module": "main.ts",
   "type": "module",
   "devDependencies": {
